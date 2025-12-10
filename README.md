@@ -9,12 +9,9 @@ Each simulator consists of a single `libttsim.so` file compiled for a specific c
 (Wormhole or Blackhole). This library exports a simple API that [TT-Metalium](https://github.com/tenstorrent/tt-metal)
 knows how to communicate with.
 
-## Official Repository
-https://github.com/tenstorrent/ttsim
-
 ## Distribution
 We currently provide binary releases for Linux/x86_64 only, with plans to release source
-code in the future under the Apache License. Visit the [releases page](https://github.com/tenstorrent/ttsim/releases) 
+code in the future under the Apache License. Visit the [latest release page](https://github.com/tenstorrent/ttsim/releases/latest)
 to download the latest version.
 
 ## Chip Status
